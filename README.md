@@ -20,8 +20,7 @@ End the for loop.
 
 Developed By: S.THIRISHA
 Reg no: 212222230160
-
-
+```
 using System;
 namespace condition
 {
@@ -55,6 +54,7 @@ namespace condition
         }
     }
 }
+```
 
 ## Output:
 ![262405335-bcc34e6b-0d61-4b4e-bb2a-ea38a24562e1](https://github.com/Thirisha-s/C-Pattern/assets/120380280/883c5ce1-1f22-4d36-9d1f-47cb41e640d6)
