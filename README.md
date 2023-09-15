@@ -57,7 +57,10 @@ namespace condition
 ```
 
 ## Output:
-![262405335-bcc34e6b-0d61-4b4e-bb2a-ea38a24562e1](https://github.com/Thirisha-s/C-Pattern/assets/120380280/883c5ce1-1f22-4d36-9d1f-47cb41e640d6)
+![267204380-9ad13be6-fd2f-4b88-a84e-0fa4d4feca81](https://github.com/Thirisha-s/C-Pattern/assets/120380280/dfaa6bbd-ac02-47d7-bf43-c6701010eb77)
+
+![267204423-ce39f3b6-5f66-43e6-aef4-e8ba9ee5e274](https://github.com/Thirisha-s/C-Pattern/assets/120380280/cd62bdf2-59ea-4fa3-8505-644bda3022db)
+
 
 ## Result:
 Thus the C# program to print the pascal's triangle is executed successfully.
